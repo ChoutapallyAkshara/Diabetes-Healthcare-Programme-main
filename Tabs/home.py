@@ -3,7 +3,7 @@ import PIL
 
 def app():
     st.title('GlucoseInsight - AI Health Assistant')
-    st.image('./images/GlucoseInsight - AI Health Assistant.png')
+    st.image('./images/GlucoseInsight - AI Health Assistant1.png')
 
     
     st.markdown(
