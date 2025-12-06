@@ -1,21 +1,20 @@
-# DHCP - Diabetes Health Care Programme
+GlucoseInsight - AI Health Assistant is an advanced, AI-powered healthcare platform designed to provide real-time diabetes support, analysis, and insights.
+Unlike traditional prediction or diagnosis tools, this integrates Generative AI (Gemini) to deliver interactive, conversational, and context-aware responses.
+It also has a personal AI health companion. Whether you want to understand symptoms, medication dosage, meal impact, health risks, or side effects, 
+the personal assistant provides accurate and instant answers tailored to your queries.
 
+**Technology Stack**
+Python (3.10+)
+Streamlit (Web UI)
+Gemini AI API (Generative AI responses)
+Machine Learning (Decision Tree Classifier)
+Pandas / NumPy
+React.js (Dashboard components)
 
-https://github.com/user-attachments/assets/bbc1fe6c-6ac4-480c-a332-9d2aefdf23d3
+**Key Modules**
+Home Page: Clean landing page with project overview and navigation.
+Ask Query: AI-powered health assistant using Google Gemini for real-time, conversational medical insights.
+Diagnosis Tool: User inputs clinical data → ML model predicts diabetes risk with interpretability.
+Result Visualization: Interactive charts and visual feedback to help users understand prediction outcomes.
+Knowledge Center: Structured information about diabetes management.
 
-DHCP or Diabetes Health Care Programme is an integrated healthcare application focused on Diabetes and its health implications. Unlike normal detection or prediction software, DHCP uses Generative AI (Gemini) which produces responses and data in real time. What more? You get a completely interactive and real-time chatbot named Capsule. You have any doubts regarding symptoms, medical dosage, health implications, side effects or anything that comes to your mind, Capsule will answer you tirelessly.
-
-## Tech Used:
-- Python (3.12 or higher)
-- Streamlit
-- React JS
-- Cron JOB
-- Gemini AI API
-
-## Modules:
-- Home Page
-- Ask Query
-- Diagnosis
-- Result Visualization
-- Knowledge Center (Upcoming)
-- Suggestion Box (Upcoming)
